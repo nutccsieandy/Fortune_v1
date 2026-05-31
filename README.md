@@ -180,7 +180,6 @@ bin\Release\OracleLotApp.exe
 
 姓名：陳德恩
 
-學校：國立雲林科技大學 資訊管理系
 
 技術領域：
 
