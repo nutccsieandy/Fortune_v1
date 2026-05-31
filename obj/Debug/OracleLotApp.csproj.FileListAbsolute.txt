@@ -1,0 +1,7 @@
+C:\Users\drche\Downloads\OracleLot_CSharp_Net472_NoCore\bin\Debug\OracleLotApp.exe.config
+C:\Users\drche\Downloads\OracleLot_CSharp_Net472_NoCore\bin\Debug\OracleLotApp.exe
+C:\Users\drche\Downloads\OracleLot_CSharp_Net472_NoCore\bin\Debug\OracleLotApp.pdb
+C:\Users\drche\Downloads\OracleLot_CSharp_Net472_NoCore\obj\Debug\OracleLotApp.csproj.AssemblyReference.cache
+C:\Users\drche\Downloads\OracleLot_CSharp_Net472_NoCore\obj\Debug\OracleLotApp.csproj.CoreCompileInputs.cache
+C:\Users\drche\Downloads\OracleLot_CSharp_Net472_NoCore\obj\Debug\OracleLotApp.exe
+C:\Users\drche\Downloads\OracleLot_CSharp_Net472_NoCore\obj\Debug\OracleLotApp.pdb
